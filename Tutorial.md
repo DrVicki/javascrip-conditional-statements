@@ -2,7 +2,7 @@
 
 ### Problem Statement
 
-you're hungry, you make a sandwich. If the traffic light is green, you press the gas pedal. If your rent is due, then you pay your rent. This breaks down into a lot of conditional choices:
+You're hungry, you make a sandwich. If the traffic light is green, you press the gas pedal. If your rent is due, then you pay your rent. This breaks down into a lot of conditional choices:
 
     if hungry → make sandwich.
     else → don't make sandwich.
