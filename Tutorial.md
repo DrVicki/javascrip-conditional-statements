@@ -1,4 +1,4 @@
-# Js Basics Conditionals 
+# JS Basics Conditionals 
 
 ### Problem Statement
 
